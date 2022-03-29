@@ -11,4 +11,3 @@
 - ⚡ Fun fact: I am always thinking about my dream job at Google but don't know when I'll reach them.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rasel1435&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--
