@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="55%" src="https://github-profile-trophy.vercel.app/?username=rasel1435" alt="rasel1435" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="60%" src="https://github-profile-trophy.vercel.app/?username=rasel1435" alt="rasel1435" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sheikh_rasel143" target="blank"><img src="https://img.shields.io/twitter/follow/sheikh_rasel143?logo=twitter&style=for-the-badge" alt="sheikh_rasel143" /></a> </p>
 
