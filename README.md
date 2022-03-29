@@ -55,10 +55,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rasel1435&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="rasel1435" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel1435&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rasel1435" /></p>
-</br></br></br>
+</br></br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Rasel1435&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 
-
+</br>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
