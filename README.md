@@ -1,7 +1,10 @@
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)]
+<span>
+<img align="center" alt="Coding" width="100%" height="100%"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+</span>
+<!-- [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)] -->
 <h1 align="center">Hi 👋, I'm Sheikh Rasel Ahmed</h1>
 <h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+<img align="right" flot="rigt" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> </p>
 
