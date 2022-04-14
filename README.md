@@ -1,6 +1,4 @@
-<span>
-<img align="center" alt="Coding" width="100%" height="100%"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-</span>
+
 <!-- [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)] -->
 
 
