@@ -70,7 +70,7 @@
 <a href="https://instagram.com/shekh_nirob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekh_nirob" height="30" width="40" /></a>
 <a href="https://dribbble.com/shekh_nirob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shekh_nirob" height="30" width="40" /></a>
 <a href="https://www.behance.net/shekhrasel2513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shekhrasel2513" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw?view_as=subscriber" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" height="30" width="40" /></a>
 </p>
 
 
