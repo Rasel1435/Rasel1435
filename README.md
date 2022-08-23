@@ -15,7 +15,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=rasel1435" alt="rasel1435" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sheikh_rasel143" target="blank"><img src="https://img.shields.io/twitter/follow/sheikh_rasel143?logo=twitter&style=for-the-badge" alt="sheikh_rasel143" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/sheikh_rasel143" target="_blank"><img src="https://img.shields.io/twitter/follow/sheikh_rasel143?logo=twitter&style=for-the-badge" alt="sheikh_rasel143" /></a> </p> -->
 
 <h2>🙋‍♂️ About Me</h2>
 
