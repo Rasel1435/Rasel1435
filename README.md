@@ -62,15 +62,15 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sheikh_rasel143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikh_rasel143" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shekhnirob1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhnirob1" height="30" width="40" /></a>
+<a href="https://twitter.com/sheikh_rasel143" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikh_rasel143" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shekhnirob1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhnirob1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://meta.stackoverflow.com/users/12739165/rasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://meta.stackoverflow.com/users/12739165/rasel" height="30" width="40" /></a>
-<a href="https://kaggle.com/sheikhraselahmed", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sheikhraselahmed" height="30" width="40" /></a>
-<a href="https://fb.com/rasel1435", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasel1435" height="30" width="40" /></a>
-<a href="https://instagram.com/shekh_nirob", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekh_nirob" height="30" width="40" /></a>
-<a href="https://dribbble.com/shekh_nirob", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shekh_nirob" height="30" width="40" /></a>
-<a href="https://www.behance.net/shekhrasel2513", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shekhrasel2513" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw", target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" height="30" width="40" /></a>
+<a href="https://kaggle.com/sheikhraselahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sheikhraselahmed" height="30" width="40" /></a>
+<a href="https://fb.com/rasel1435" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasel1435" height="30" width="40" /></a>
+<a href="https://instagram.com/shekh_nirob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekh_nirob" height="30" width="40" /></a>
+<a href="https://dribbble.com/shekh_nirob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shekh_nirob" height="30" width="40" /></a>
+<a href="https://www.behance.net/shekhrasel2513" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shekhrasel2513" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCv5WVnX0SKYye4_rjbKhgPw" height="30" width="40" /></a>
 </p>
 
 
