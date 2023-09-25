@@ -34,11 +34,13 @@
 
 - 👀 My [YouTube](https://www.youtube.com/@codewithsheikhrasel)
 
-- 📝 I regularly write articles on [twitter](https://twitter.com/Sheikh_Rasel143)
+- 💬 You can also contact me on [Facebook](https://www.facebook.com/rasel1435) 
+
+- 📝 I regularly write articles on [Twitter](https://twitter.com/Sheikh_Rasel143)
 
 - 💬 Ask me about **DS || ML || DL || AI**
 
-- 📫 How to reach me **https://twitter.com/Sheikh_Rasel143**
+- 📫 How to reach me **https://about.me/ahmednirob**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shekhnirob1)
 
