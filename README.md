@@ -26,7 +26,7 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rasel1435](https://github.com/Rasel1435)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rasel1435)
   
 - 🥉 My [leetcode](https://leetcode.com/shekh_rase)
   
@@ -34,13 +34,13 @@
 
 - 👀 My [YouTube](https://www.youtube.com/@codewithsheikhrasel)
 
-- 📝 I regularly write articles on [https://twitter.com/Sheikh_Rasel143](https://twitter.com/Sheikh_Rasel143)
+- 📝 I regularly write articles on [twitter](https://twitter.com/Sheikh_Rasel143)
 
 - 💬 Ask me about **DS || ML || DL || AI**
 
 - 📫 How to reach me **https://twitter.com/Sheikh_Rasel143**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shekhnirob1](https://www.linkedin.com/in/shekhnirob1)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shekhnirob1)
 
 - ⚡ Fun fact **I am always thinking about my dream job at Google but don't know when I'll reach them.**
 
