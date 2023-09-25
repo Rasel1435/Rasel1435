@@ -27,8 +27,12 @@
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rasel1435](https://github.com/Rasel1435)
-- My [leetcode](https://leetcode.com/shekh_rase)
-- My [Kaggle](https://www.kaggle.com/sheikhraselahmed)
+  
+- 🥉 My [leetcode](https://leetcode.com/shekh_rase)
+  
+- 🏆 My [Kaggle](https://www.kaggle.com/sheikhraselahmed)
+
+- 👀 My [YouTube](https://www.youtube.com/@codewithsheikhrasel)
 
 - 📝 I regularly write articles on [https://twitter.com/Sheikh_Rasel143](https://twitter.com/Sheikh_Rasel143)
 
