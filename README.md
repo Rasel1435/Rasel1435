@@ -19,8 +19,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast**
-
+- 🔭 I’m currently working on **Generative Artificial Intelligence (AI Engineer)**
 - 🌱 I’m currently learning **DL || AI**
 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1)
@@ -28,6 +27,8 @@
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rasel1435](https://github.com/Rasel1435)
+- My [leetcode](https://leetcode.com/shekh_rase)
+- My [Kaggle](https://www.kaggle.com/sheikhraselahmed)
 
 - 📝 I regularly write articles on [https://twitter.com/Sheikh_Rasel143](https://twitter.com/Sheikh_Rasel143)
 
