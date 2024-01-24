@@ -6,23 +6,23 @@
 
 <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
-<h1 align="center">Hi 👋, I'm Sheikh Rasel Ahmed</h1>
+<h1 align="center">Hi 👋, Welcome to AiConncetHub</h1>
 <h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Worldwide Community</h3>
 </br>
 <h3>❤ Views and Followers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> <img src="https://img.shields.io/github/followers/Rasel1435?label=Followers&style=social" alt="rasel1435" /></p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> <img src="https://img.shields.io/github/followers/Rasel1435?label=Followers&style=social" alt="rasel1435" /></p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=rasel1435" alt="rasel1435" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sheikh_rasel143" target="_blank"><img src="https://img.shields.io/twitter/follow/sheikh_rasel143?logo=twitter&style=for-the-badge" alt="sheikh_rasel143" /></a> </p> -->
 
-<h2>🙋‍♂️ About Me</h2>
+<h2>🙋‍♂️ About US</h2>
 
-- 🔭 I’m currently working on **Generative Artificial Intelligence (AI Engineer)**
-- 🌱 I’m currently learning **DL || AI**
+- 🔭 We are currently working on **Generative Artificial Intelligence (AI Engineer)**
+<!-- 🌱 I’m currently learning **DL || AI** -->
 
-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1)
+- 👯 We are looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1)
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
