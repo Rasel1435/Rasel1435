@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheikh_rasel143" target="_blank"><img src="https://img.shields.io/twitter/follow/sheikh_rasel143?logo=twitter&style=for-the-badge" alt="sheikh_rasel143" /></a> </p> -->
 
-<h2>🙋‍♂️ About US</h2>
+<h2>🙋‍♂️ About ME</h2>
 
 - 🔭 I'm currently working on **Generative Artificial Intelligence (AI Engineer)**
 - 🌱 I’m currently learning **DL || AI**
