@@ -6,34 +6,40 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> <img src="https://img.shields.io/github/followers/Rasel1435?label=Followers&style=social" alt="rasel1435" /></p>
 
 
-<h2>🙋‍♂️ About ME</h2>
+<h2>SUMMARY 🙋‍♂️</h2>
+<p>I am a driven and passionate AI Engineer with a focus on bringing intelligence to mundane software, thereby
+enhancing its relevance and impact on people’s lives. With extensive experience in both software development
+and machine learning engineering, I thrive on the challenge of designing and building ML systems that offer
+innovative solutions and drive positive outcomes. My enthusiasm lies in leveraging technology to create
+meaningful and impactful solutions that resonate with users and contribute to a smarter, more connected world</p>
+<span>
+<h2>EDUCATION 🎓</h2>
+  🎓 Computer Science & Engineering (B.sc in CSE) - Bangladesh University (BU) | 2018 - 2021</br>
+  🎓 Diploma in Computer Technology - Dhaka Institute of Engineering & Technology (DIET) | 2011 - 2020
+</span>
+<span>
+  <h2>SKILL SET</h2>
 
-- 🔭 I'm currently working on **Generative Artificial Intelligence (AI Engineer)**
-- 🌱 I’m currently learning **DL || AI**
+👨‍💻 **Languages:** Python (Experienced), C++ (Familiar) </br>
 
-- 👯 I'm looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1)
+💾 **Databases:** MySQL, DynamoDB, MongoDB (Experienced) </br>
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+📦 **Software Development:** Django REST, FastAPI, Git, GitHub, Docker, AWS (RDS, EC2, S3) (Experienced) </br>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rasel1435)
-  
-- 🥉 My [leetcode](https://leetcode.com/shekh_rase)
-  
-- 🏆 My [Kaggle](https://www.kaggle.com/sheikhraselahmed)
+🤖 **Machine Learning:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, MLFlow, MLOps, OpenCV </br>
 
-- 👀 My [YouTube](https://www.youtube.com/@codewithsheikhrasel)
+🤖 **Deep Learning:** ANN/MLP, CNN, RNN, LSTM, BERT, GPT </br>
 
-- 💬 You can also contact me on [Facebook](https://www.facebook.com/rasel1435) 
+🔢 **Big Data:** Hadoop, Spark, Airflow, Databricks (Familiar) </br>
 
-- 📝 I regularly write articles on [Twitter](https://twitter.com/Sheikh_Rasel143)
+🎤 **Soft Skills:** Presentation, Teamwork, Leadership </br>
 
-- 💬 Ask me about **DS || ML || DL || AI**
+🔭 I'm currently working on **Generative Artificial Intelligence (AI Engineer)**
+</span>
 
-- 📫 How to reach me **https://about.me/ahmednirob**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shekhnirob1)
+<!-- 👯 I'm looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1) -->
 
-- ⚡ Fun fact **I am always thinking about my dream job at Google but don't know when I'll reach them.**
 
 </br>
 
