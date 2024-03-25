@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheikh Rasel Ahmed </h1>
 <h3 align="center">AI/ML Engineer</h3>
-<h3>❤ Views and Followers</h3>
+<h3>VIEWS AND FOLLOWERS ❤</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> <img src="https://img.shields.io/github/followers/Rasel1435?label=Followers&style=social" alt="rasel1435" /></p>
 
 
@@ -21,7 +21,7 @@ meaningful and impactful solutions that resonate with users and contribute to a 
   🎓 Diploma in Computer Technology - Dhaka Institute of Engineering & Technology (DIET) | 2011 - 2020
 </span>
 <span>
-  <h2>SKILL SET </h2>
+  <h2>SKILL SET 🦾</h2>
 
   👨‍💻 **Languages:** Python (Experienced), C++ (Familiar) </br>
 
@@ -31,7 +31,7 @@ meaningful and impactful solutions that resonate with users and contribute to a 
 
   🤖 **Machine Learning:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, MLFlow, MLOps, OpenCV </br>
 
-  🤖 **Deep Learning:** ANN/MLP, CNN, RNN, LSTM, BERT, GPT </br>
+  👾 **Deep Learning:** ANN/MLP, CNN, RNN, LSTM, BERT, GPT </br>
 
   🔢 **Big Data:** Hadoop, Spark, Airflow, Databricks (Familiar) </br>
 
@@ -51,8 +51,6 @@ meaningful and impactful solutions that resonate with users and contribute to a 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rasel1435&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="rasel1435" /></p>
   
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel1435&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rasel1435" /></p>
-  </br></br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rasel1435&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 </span>
 
 <span>
