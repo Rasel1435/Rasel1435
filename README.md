@@ -7,36 +7,35 @@
 <span>
 <h2>SUMMARY 🙋‍♂️</h2>
 <p>
-I am a driven and passionate AI Engineer with a focus on bringing intelligence to mundane software, thereby
-enhancing its relevance and impact on people’s lives. With extensive experience in both software development
-and machine learning engineering, I thrive on the challenge of designing and building ML systems that offer
-innovative solutions and drive positive outcomes. My enthusiasm lies in leveraging technology to create
-meaningful and impactful solutions that resonate with users and contribute to a smarter, more connected world
+AI/ML Engineer with 3+ years of experience designing, building, and deploying production-grade machine
+learning systems. Strong background in time-series forecasting, data pipelines, and MLOps using MLflow,
+ZenML, Docker, and AWS. Experienced in integrating ML models into scalable backend services using Python
+and Django REST Framework. Proven ability to deliver end-to-end ML solutions that improve decision-making,
+system efficiency, and business outcomes.
 </p>
 </span>
 
 <span>
 <h2>EDUCATION 🎓</h2>
-  🎓 Computer Science & Engineering (B.sc in CSE) - Bangladesh University (BU) | 2018 - 2021</br>
-  🎓 Diploma in Computer Technology - Dhaka Institute of Engineering & Technology (DIET) | 2011 - 2020
+  🎓 Bachelor of Science in Computer Science & Engineering | 2018 – 2021</br>
+  👨‍🎓 Bangladesh University (BU), Dhaka, Bangladesh | CGPA: 3.7/4.00
+
+  🎓 Diploma in Computer Technology | 2011 - 2020</br>
+  👨‍🎓 Dhaka Institute of Engineering & Technology (DIET), Dhaka, Bangladesh | CGPA: 3.87/4.00
 </span>
 <span>
   <h2>SKILL SET 🦾</h2>
 
-  👨‍💻 **Languages:** Python (Experienced), C++ (Familiar) </br>
-
-  💾 **Databases:** MySQL, DynamoDB, MongoDB (Experienced) </br>
-
-  📦 **Software Development:** Django REST, FastAPI, Git, GitHub, Docker, AWS (RDS, EC2, S3) (Experienced) </br>
-
-  🤖 **Machine Learning:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, MLFlow, MLOps, OpenCV </br>
-
-  👾 **Deep Learning:** ANN/MLP, CNN, RNN, LSTM, BERT, GPT </br>
-
-  🔢 **Big Data:** Hadoop, Spark, Airflow, Databricks (Familiar) </br>
-
+  👨‍💻 **Languages:** Python (Advanced), SQL, NumPy, Pandas </br>
+  🤖 **Machine Learning:** Supervised & Unsupervised Learning, Time-Series Forecasting, Feature Engineering, Model
+Evaluation & Optimization </br>
+  👾 **Deep Learning & AI:** ANN, CNN, RNN, LSTM, NLP, LLMs, LangChain, TensorFlow, Keras, PyTorch, OpenCV </br>
+  📦 **MLOps & Deployment:** MLflow, ZenML, Docker, Git, GitHub, Model Versioning, Experiment Tracking, CI/CD for
+ML, AWS (EC2, S3, RDS) </br>
+  ⚒️ **Backend & Integration:** Django REST Framework, FastAPI, RESTful API Development </br>
+  💾 **Databases:** MySQL, DynamoDB </br>
   🎤 **Soft Skills:** Presentation, Teamwork, Leadership </br>
-
+  
   🔭 I'm currently working on **Generative Artificial Intelligence (AI Engineer)**
 </span>
 <!-- 👯 I'm looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1) -->
