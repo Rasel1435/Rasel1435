@@ -20,7 +20,7 @@ system efficiency, and business outcomes.
   🎓 Bachelor of Science in Computer Science & Engineering | 2018 – 2021</br>
   👨‍🎓 Bangladesh University (BU), Dhaka, Bangladesh | CGPA: 3.7/4.00
 
-  🎓 Diploma in Computer Technology | 2011 - 2020</br>
+  🎓 Diploma in Computer Technology | 2011 - 2016</br>
   👨‍🎓 Dhaka Institute of Engineering & Technology (DIET), Dhaka, Bangladesh | CGPA: 3.87/4.00
 </span>
 <span>
